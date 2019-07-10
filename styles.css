@@ -1,0 +1,31 @@
+
+.Hi{
+  font-family: 'DM Serif Display', serif;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: cyan;
+}
+.food{
+  font-family: 'Roboto Mono', monospace;
+  display: flex;
+  justify-content: center;
+  background-color: rebeccapurple;
+}
+
+img {
+  height: 500px;
+  box-shadow: 50px 50px 20px #778899;
+}
+
+body {
+      background-color: lightpink;
+      height: 9000px;
+      margin: 2px;
+}
+.meep{
+      width: 30%;
+}
+.wOw{
+  width: 43%;
+}
